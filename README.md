@@ -18,7 +18,6 @@ Download the latest release from:
 👉 https://github.com/GaspardKirira/strings/releases
 
 Or clone directly:
-
 ``` bash
 git clone https://github.com/GaspardKirira/strings.git
 ```
