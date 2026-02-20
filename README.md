@@ -9,6 +9,7 @@ trimming, case conversion, and text processing.
 
 ``` bash
 vix add gaspardkirira/strings@0.1.0
+vix deps
 ```
 
 ### Manual Download
