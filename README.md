@@ -45,7 +45,7 @@ int main()
 
 ### Output
 ```text
-    hello
+hello
 ```
 
 ## Features
