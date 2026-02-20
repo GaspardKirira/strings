@@ -8,7 +8,7 @@ trimming, case conversion, and text processing.
 ### Using Vix Registry
 
 ``` bash
-vix add gaspardkirira/strings@0.1.0
+vix add gaspardkirira/strings@0.1.5
 vix deps
 ```
 
