@@ -34,7 +34,6 @@ Then include the `include/` directory in your project.
 int main()
 {
   std::string text = "   Hello,World   ";
-
   auto trimmed = strings::trim(text);
   auto parts = strings::split(trimmed, ',');
   auto lower = strings::to_lower(parts[0]);
