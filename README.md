@@ -78,6 +78,7 @@ See the `examples/` directory for:
 Run tests with:
 
 ``` bash
+vix build
 vix tests
 ```
 
